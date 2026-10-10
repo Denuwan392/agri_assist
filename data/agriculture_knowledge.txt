@@ -1,0 +1,8 @@
+[KB_01] Tomato yellow leaves can have multiple causes including nitrogen deficiency, overwatering, underwatering, early blight disease, and root zone problems.
+[KB_02] Nitrogen deficiency in tomatoes typically manifests as general chlorosis (yellowing) starting on older, lower leaves while upper leaves remain pale green.
+[KB_03] High ambient temperatures (above 32°C / 90°F) significantly accelerate evapotranspiration, creating severe heat stress and increasing soil water demand.
+[KB_04] Soil moisture for tomatoes should ideally stay between 40% and 70%. Levels below 30% cause acute root stress, wilting, and impaired nutrient uptake.
+[KB_05] Soil moisture must be evaluated together with current weather conditions rather than using a single static threshold. Hot dry winds double water consumption.
+[KB_06] When soil moisture is below 30% in high heat (>33°C), immediate targeted drip irrigation is essential before diagnosing permanent fungal pathogens.
+[KB_07] Overwatering can also cause yellow leaves due to anaerobic root suffocation, but occurs when soil moisture exceeds 80% with poor drainage.
+[KB_08] Early blight (Alternaria solani) causes concentric rings (target spots) on yellowing leaves, distinct from uniform drought chlorosis.

@@ -1,0 +1,29 @@
+{
+  "farms": {
+    "farm_01": {
+      "name": "GreenLeaf Farm",
+      "crop": "Tomato",
+      "variety": "Roma",
+      "planting_date": "2026-08-15",
+      "soil_type": "Loamy Sand",
+      "irrigation_system": "Drip System",
+      "target_moisture_range": [40, 70],
+      "current_sensors": {
+        "moisture": 28,
+        "ph": 6.4,
+        "nitrogen_ppm": 32,
+        "phosphorus_ppm": 45,
+        "potassium_ppm": 120
+      }
+    }
+  },
+  "cached_weather": {
+    "GreenLeaf Farm": {
+      "temperature": 34,
+      "humidity": 68,
+      "rain_probability": 10,
+      "forecast": "Hot and dry with prolonged direct sun",
+      "heat_stress_alert": true
+    }
+  }
+}
